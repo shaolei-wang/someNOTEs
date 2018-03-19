@@ -1,0 +1,5 @@
+clear bug report when start up 
+sudo rm /var/crash/*
+
+install third party software for media when installing ubuntu
+sudo apt-get install ubuntu-restricted-extras
